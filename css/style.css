@@ -1,0 +1,56 @@
+/* Poppins fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* inter-fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+/* Base style  */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+/* background-color-styles  */
+.banner-bg {
+    background-color: #264653;
+}
+
+.btn-bg {
+    background-color: #E76F51;
+}
+.form-bg{
+    background-color: #f5f5f5;
+}
+
+/* Text-color-and-size-styles */
+.text-500 {
+    font-weight: 500;
+}
+
+.text-300 {
+    font-weight: 300;
+}
+
+.text-600 {
+    font-weight: 600;
+}
+.text-color {
+    color: #E76F51;
+}
+
+.fill {
+    color: #E76F51;
+}
+
+.question-text {
+    font-weight: normal;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Image-greyscale */
+.grey-scale {
+    filter: grayscale(100%);
+}
