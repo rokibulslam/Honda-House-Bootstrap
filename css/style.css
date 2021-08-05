@@ -60,3 +60,11 @@ Text-color-and-size-styles
 .grey-scale {
     filter: grayscale(100%);
 }
+/*--------------------------------- 
+    Media-quriies-for-mobile 
+---------------------------------*/
+@media only screen and (max-width:688px) {
+    h1{
+        font-size: 36px;
+    }
+}
